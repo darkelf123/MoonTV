@@ -87,3 +87,12 @@
     }
   }
 }
+  },
+  "custom_category": [
+    {
+      "name": "华语",
+      "type": "movie",
+      "query": "华语"
+    }
+  ]
+}
